@@ -13,7 +13,7 @@ import random
 import arcade
 
 # --- Constants ---
-SPRITE_SCALING_PLAYER = 0.25
+SPRITE_SCALING_PLAYER = 0.50
 SPRITE_SCALING_COIN = .25
 COIN_COUNT = 50
 
